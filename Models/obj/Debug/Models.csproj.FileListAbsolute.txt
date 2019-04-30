@@ -1,0 +1,12 @@
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\Models.dll.config
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\Models.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\Models.pdb
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\EntityFramework.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\EntityFramework.xml
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\obj\Debug\Models.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Models\obj\Debug\Models.pdb

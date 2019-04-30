@@ -1,0 +1,13 @@
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Models.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\bin\Debug\netstandard2.0\Models.dll.config
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\TPDELL002\source\repos\RepositoryServicePatternWithMVC\Repository\obj\Debug\netstandard2.0\Repository.pdb
